@@ -31,6 +31,9 @@ $ python3 visualize.py
 ## 参考
 
 [1] https://www.floydhub.com/fastai/datasets/cats-vs-dogs
+
 [2] https://github.com/allenwind/tensorflow-in-large-dataset
+
 [3] https://github.com/allenwind/text-integrated-gradients
+
 [4] https://keras.io/examples/vision/integrated_gradients/
