@@ -27,6 +27,7 @@ $ python3 visualize.py
 
 ![](asset/demo_2.png)
 
+如果需要可视化自己的图片，修改`visualize.py`中的参数即可。
 
 ## 参考
 
