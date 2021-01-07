@@ -14,7 +14,7 @@ def compute_gradients(model, samples_input, top_pred_idx):
         tape.watch(images)
         preds = model(images)
         top_class = preds[:, top_pred_idx]
-
+    # 输出类别对图像的梯度
     grads = tape.gradient(top_class, images)
     return grads
 
